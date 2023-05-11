@@ -54,8 +54,8 @@ Skills and certificates portfolio. Current trainings and interests
 | Skill | Reference Projects |
 | ------------- | ------------- |
 | PySpark | [pyspark-hands-on](https://github.com/trpa-dev/pyspark-hands-on) |
-| AWS Serverless Architecture | [aws-serverless-scraper]() |
-| AWS EventBridge (Scheduler) | [aws-serverless-scraper]() |
-| Docker | [aws-serverless-scraper]() |
-| AWS ECR | [aws-serverless-scraper]() |
-| AWS Lambda | [aws-serverless-scraper]() |
+| AWS Serverless Architecture | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
+| AWS EventBridge (Scheduler) | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
+| Docker | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
+| AWS ECR | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
+| AWS Lambda | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
