@@ -53,7 +53,7 @@ Skills and certificates portfolio. Current trainings and interests
 ## Upskilling
 | Skill | Reference Projects |
 | ------------- | ------------- |
-| PySpark | [udemy-hands-on]() |
+| PySpark | [pyspark-hands-on](https://github.com/trpa-dev/pyspark-hands-on) |
 | AWS Serverless Architecture | [aws-serverless-scraper]() |
 | AWS EventBridge (Scheduler) | [aws-serverless-scraper]() |
 | Docker | [aws-serverless-scraper]() |
