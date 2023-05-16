@@ -47,8 +47,8 @@ Skills and certificates portfolio. Current trainings and interests
 ## Training
 | Training Course  | Progress | Reference Link/s | 
 | ------------- | ------------- | ------------- |
-| AWS Solutions Architect Associate  | 55 %  | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-| Big Data with PySpark | 40 %  | [Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+| AWS Solutions Architect Associate | 80 % | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+| Big Data with PySpark | 40 % | [Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
 
 ## Upskilling
 | Skill | Reference Projects |
