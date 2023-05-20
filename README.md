@@ -49,7 +49,7 @@ Skills and certificates portfolio. Current trainings and interests
 | ------------- | ------------- | ------------- |
 | Ultimate AWS Solutions Architect Associate | 100 % | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) |
 | Big Data with PySpark | 40 % | [Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) | 
-| Data Warehouse Fundamentals | [Udemy](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) |
+| Data Warehouse Fundamentals | 25 % | [Udemy](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) |
 
 ## Upskilling
 | Skill | Reference Projects |
