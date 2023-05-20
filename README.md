@@ -59,5 +59,6 @@ Skills and certificates portfolio. Current trainings and interests
 | Docker | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
 | AWS ECR | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
 | AWS Lambda | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
+| Data Streaming | [pyspark-local-streaming](https://github.com/trpa-dev/pyspark-local-streaming) |
 | Spark (PySpark) | [pyspark-local-streaming](https://github.com/trpa-dev/pyspark-local-streaming) |
 | Spark Streaming | [pyspark-local-streaming](https://github.com/trpa-dev/pyspark-local-streaming) |
