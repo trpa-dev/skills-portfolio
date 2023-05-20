@@ -47,15 +47,17 @@ Skills and certificates portfolio. Current trainings and interests
 ## Training
 | Training Course  | Progress | Reference Link/s | 
 | ------------- | ------------- | ------------- |
-| Ultimate AWS Solutions Architect Associate | 100 % | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
-| Big Data with PySpark | 40 % | [Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+| Ultimate AWS Solutions Architect Associate | 100 % | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) |
+| Big Data with PySpark | 40 % | [Udemy](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/) | 
+| Data Warehouse Fundamentals | [Udemy](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) |
 
 ## Upskilling
 | Skill | Reference Projects |
 | ------------- | ------------- |
-| PySpark | [pyspark-hands-on](https://github.com/trpa-dev/pyspark-hands-on) |
 | AWS Serverless Architecture | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
 | AWS EventBridge (Scheduler) | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
 | Docker | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
 | AWS ECR | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
 | AWS Lambda | [aws-serverless-scraper](https://github.com/trpa-dev/aws-serverless-scraper) |
+| Spark (PySpark) | [pyspark-local-streaming](https://github.com/trpa-dev/pyspark-local-streaming) |
+| Spark Streaming | [pyspark-local-streaming](https://github.com/trpa-dev/pyspark-local-streaming) |
